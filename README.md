@@ -1,4 +1,4 @@
-# Eyes_classification_Using_Multilevel_Traning
+# Eyes_classification(Diabetic_Retinopathy)_Using_Multilevel_Traning
 Eyes classification using muti-level training and using Transfter learning. 
 
 Perform EDA on the dataset (Without EDA we were not getting any good result)
